@@ -5,7 +5,7 @@ Installation
 
 1.Clone the repository:
 
-git clone https://github.com/yourusername/stock-market-analysis.git
+git clone https://github.com/prashant1039/stack-/edit/main
 
 
 2.Navigate into the project directory:
